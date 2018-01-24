@@ -1,4 +1,4 @@
-# Linkography (pre-Alpha)
+# Linkography
 
 Interactive linkograph that displays data point when pressed, allows individual data points to be moved around to interrogate any links. If you move points and want them back on the baseline press ‘r’.
 
